@@ -1,2 +1,3 @@
 # buildyourownlisp
-buildyourownlisp.com
+
+See [the book](https://buildyourownlisp.com).
